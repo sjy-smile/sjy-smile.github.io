@@ -630,6 +630,19 @@
     
     
     <entry>
+      <title></title>
+      <link href="/posts/0.html"/>
+      <url>/posts/0.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="MySql使用rpm的方式安装"><a href="#MySql使用rpm的方式安装" class="headerlink" title="MySql使用rpm的方式安装"></a>MySql使用rpm的方式安装</h3><p>官方下载地址：<a href="https://downloads.mysql.com/archives/community/">https://downloads.mysql.com/archives/community/</a></p><p>1、安装 MySQL 官方的 yum repository</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>
@@ -643,19 +656,6 @@
             <tag> test </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/posts/0.html"/>
-      <url>/posts/0.html</url>
-      
-        <content type="html"><![CDATA[<h3 id="MySql使用rpm的方式安装"><a href="#MySql使用rpm的方式安装" class="headerlink" title="MySql使用rpm的方式安装"></a>MySql使用rpm的方式安装</h3><p>官方下载地址：<a href="https://downloads.mysql.com/archives/community/">https://downloads.mysql.com/archives/community/</a></p><p>1、安装 MySQL 官方的 yum repository</p>]]></content>
-      
-      
       
     </entry>
     
